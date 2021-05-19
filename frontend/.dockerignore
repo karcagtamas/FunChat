@@ -1,0 +1,4 @@
+.git
+.DS0_Store
+node_modules
+dist

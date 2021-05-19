@@ -1,6 +1,7 @@
 <template>
   <div class="home">
     <div>
+      <h2 class="text-center">FunChat App <small>by Karcag</small></h2>
       <v-btn class="btn" v-on:click="routeTo('about')">About</v-btn>
       <v-btn class="btn" v-on:click="routeTo('messenger')">Messenger</v-btn>
     </div>
